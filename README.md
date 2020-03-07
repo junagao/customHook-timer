@@ -1,2 +1,3 @@
-# customHook-timer
-Created with CodeSandbox
+# timer
+
+`useTimeout` should render after `delay` seconds.
